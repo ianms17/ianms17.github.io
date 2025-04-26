@@ -8,10 +8,6 @@ defaultcontentlanguage = "en"
 [pagination]
 pagerSize = 20
 
-[services]
-[services.disqus]
-shortname = "yourdiscussshortname"
-
 [markup.highlight]
 style = "monokai"
 
@@ -20,7 +16,7 @@ style = "monokai"
   info = "Cloud Platform and Automation Engineer"
   description = "Ian Stephenson's Personal Site"
   keywords = "blog,developer,personal"
-  avatarurl = "images/gpt_avatar.png"
+  avatarurl = "images/gpt_bears_avatar.png"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -66,11 +62,3 @@ style = "monokai"
   name = "Projects"
   weight = 3
   url = "projects/"
-[[menu.main]]
-  name = "Contact"
-  weight = 4
-  url = "contact/"
-[[menu.main]]
-  name = "Resume"
-  weight = 5
-  url = "resume/"

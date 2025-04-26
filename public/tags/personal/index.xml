@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Ian&#39;s Personal Site</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on Ian&#39;s Personal Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Apr 2025 13:51:43 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allow Me to Introduce Myself</title>
+      <link>http://localhost:1313/posts/personal/introduction/</link>
+      <pubDate>Thu, 24 Apr 2025 13:51:43 -0500</pubDate>
+      <guid>http://localhost:1313/posts/personal/introduction/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hello, there! My name is Ian Stephenson.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m writing this about a week removed from the birth of my first kid. For a long time, I&amp;rsquo;ve thought about starting blog because I don&amp;rsquo;t get to do enough writing. You know what they say, right? There&amp;rsquo;s no time like the present.&lt;/p&gt;&#xA;&lt;p&gt;I want this post to operate as a &amp;ldquo;Where Am I Now?&amp;rdquo; that I can go back to. Who am I? What do I like? What do I want out of life? What&amp;rsquo;s better than a post that lives forever on the internet to give me a chance at some self-reflection ten years from now.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
